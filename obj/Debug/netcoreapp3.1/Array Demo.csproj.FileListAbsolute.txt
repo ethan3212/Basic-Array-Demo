@@ -1,0 +1,14 @@
+C:\Users\ethan\source\repos\Array Demo\bin\Debug\netcoreapp3.1\Array Demo.exe
+C:\Users\ethan\source\repos\Array Demo\bin\Debug\netcoreapp3.1\Array Demo.deps.json
+C:\Users\ethan\source\repos\Array Demo\bin\Debug\netcoreapp3.1\Array Demo.runtimeconfig.json
+C:\Users\ethan\source\repos\Array Demo\bin\Debug\netcoreapp3.1\Array Demo.runtimeconfig.dev.json
+C:\Users\ethan\source\repos\Array Demo\bin\Debug\netcoreapp3.1\Array Demo.dll
+C:\Users\ethan\source\repos\Array Demo\bin\Debug\netcoreapp3.1\Array Demo.pdb
+C:\Users\ethan\source\repos\Array Demo\obj\Debug\netcoreapp3.1\Array Demo.AssemblyInfoInputs.cache
+C:\Users\ethan\source\repos\Array Demo\obj\Debug\netcoreapp3.1\Array Demo.AssemblyInfo.cs
+C:\Users\ethan\source\repos\Array Demo\obj\Debug\netcoreapp3.1\Array Demo.csproj.CoreCompileInputs.cache
+C:\Users\ethan\source\repos\Array Demo\obj\Debug\netcoreapp3.1\Array Demo.dll
+C:\Users\ethan\source\repos\Array Demo\obj\Debug\netcoreapp3.1\Array Demo.pdb
+C:\Users\ethan\source\repos\Array Demo\obj\Debug\netcoreapp3.1\Array Demo.genruntimeconfig.cache
+C:\Users\ethan\source\repos\Array Demo\obj\Debug\netcoreapp3.1\Array Demo.csproj.AssemblyReference.cache
+C:\Users\ethan\source\repos\Array Demo\obj\Debug\netcoreapp3.1\Array Demo.GeneratedMSBuildEditorConfig.editorconfig
